@@ -48,7 +48,7 @@ loaders: [{
 }]
 ```
 
-For each optimizer you wish to configure, specify the corresponding key in options:
+The default optimizer settings are OK. If you still want to configure optimizers though, specify their config in options:
 
 ```js
 loaders: [{
